@@ -1,6 +1,10 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:009688&height=200&section=header&text=Poompath%20Muangthong%20(ภูมิ)&fontColor=ffffff&fontSize=40&fontAlignY=35)
+
 # 👋 Hi, I'm Poompath Muangthong (ภูมิ)  
 
 💻 Fullstack Developer | ☕ Café Tech Enthusiast | 🎓 Intern (Senior Year)  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38B2AC&lines=Fullstack+Developer;Cafe+Management+System;Flutter+%2B+Angular+%2B+Go;Always+Learning+🚀)](https://git.io/typing-svg)
 
 ---
 
@@ -31,11 +35,20 @@
 
 ---
 
-## 🌱 Recent Projects
-🚀 **Highlighted Works**
-- [EasyCrop](https://github.com/PoomITD65/EasyCrop) – 📱 Flutter crop library  
-- [SpendLog-System](https://github.com/PoomITD65/SpendLog-System-mobile-application-Dart-) – 💰 Expense tracking app  
-- [Exam](https://github.com/PoomITD65/exam) – ✏️ Exam scanning platform  
+## 🚀 Highlighted Projects
+<p align="center">
+  <a href="https://github.com/PoomITD65/EasyCrop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=EasyCrop&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/PoomITD65/exam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=exam&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PoomITD65/SpendLog-System-mobile-application-Dart-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=SpendLog-System-mobile-application-Dart-&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -54,3 +67,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/PoomITD65/PoomITD65/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:38B2AC&height=120&section=footer)
