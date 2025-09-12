@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:009688&height=200&section=header&text=Pumipath%20Muangthong%20&fontColor=ffffff&fontSize=40&fontAlignY=35)
 
-# 👋 Hi, I'm Poom (ภูมิ)  
+# 👋 Hi, I'm Poom 
 
 💻 Developer Intern | ☕ Café Tech Enthusiast | 🎓 Intern (Senior Year)  
 
