@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:009688&height=200&section=header&text=Poompath%20Muangthong%20(ภูมิ)&fontColor=ffffff&fontSize=40&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:009688&height=200&section=header&text=Pumipath%20Muangthong%20(ภูมิ)&fontColor=ffffff&fontSize=40&fontAlignY=35)
 
 # 👋 Hi, I'm Poompath Muangthong (ภูมิ)  
 
