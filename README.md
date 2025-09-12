@@ -70,9 +70,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/PoomITD65/PoomITD65/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:38B2AC&height=120&section=footer)
