@@ -2,10 +2,6 @@
 
 💻 Developer | ☕ Café Tech Enthusiast | 🎓 Intern (Senior Year)
 
-- 🚀 Building **Cafe Management System** (Angular + Go + MongoDB)
-- 📱 Flutter apps: exam scanning, TODO+Finance inspired by MeowJot
-- 🎮 Go (baduk) player & trainer
-
 ## 🔧 Tech Stack
 - Frontend: Angular, React, Tailwind
 - Backend: Go, FastAPI
