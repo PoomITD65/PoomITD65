@@ -4,7 +4,7 @@
 
 💻 Developer Intern | ☕ Café Tech Enthusiast | 🎓 Intern (Senior Year)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38B2AC&lines=Fullstack+Developer;Cafe+Management+System;Flutter+%2B+Angular+%2B+Go;Always+Learning+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38B2AC&lines=Developer+Intern;Cafe+Management+System;Flutter+%2B+Angular+%2B+Go;Always+Learning+🚀)](https://git.io/typing-svg)
 
 ---
 
