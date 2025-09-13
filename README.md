@@ -1,17 +1,11 @@
-<!-- ========== BG GIF #1 (Top) ========== -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQyYzlyODZlcHZhaHh2aTRmcmpuYmVjdnc3d3l1OGNyZ2trNGYwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jaOXKCxtBPLieRLI0c/giphy.gif" width="100%" alt="bg gif top"/>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:009688&height=200&section=header&text=Pumipath%20Muangthong%20&fontColor=ffffff&fontSize=40&fontAlignY=35)
 
-<div align="center">
+# 👋 Hi, I'm Poom 
 
-# 👋 Hi, I'm Poom
-
-💻 Developer Intern · ☕ Café Tech Enthusiast · 🎓 Intern
+💻 Developer Intern | ☕ Café Tech Enthusiast | 🎓 Intern (Senior Year)  
+💻 Developer Intern | ☕ Café Tech Enthusiast | 🎓 Intern
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38B2AC&lines=Developer+Intern;Cafe+Management+System;Flutter+%2B+Angular+%2B+Go;Always+Learning+🚀)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -32,15 +26,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<!-- ========== BG GIF #2 (Between Tech & Stats) ========== -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQyYzlyODZlcHZhaHh2aTRmcmpuYmVjdnc3d3l1OGNyZ2trNGYwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jaOXKCxtBPLieRLI0c/giphy.gif" width="100%" alt="bg gif middle"/>
-</p>
+---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PoomITD65&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomITD65&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PoomITD65&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomITD65&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -48,35 +39,36 @@
 ## 🚀 Highlighted Projects
 <p align="center">
   <a href="https://github.com/PoomITD65/EasyCrop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=EasyCrop&theme=tokyonight" alt="EasyCrop card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=EasyCrop&theme=tokyonight" />
   </a>
   <a href="https://github.com/PoomITD65/exam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=exam&theme=tokyonight" alt="exam card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=exam&theme=tokyonight" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/PoomITD65/SpendLog-System-mobile-application-Dart-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=SpendLog-System-mobile-application-Dart-&theme=tokyonight" alt="SpendLog card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=SpendLog-System-mobile-application-Dart-&theme=tokyonight" />
   </a>
 </p>
 
-<!-- ========== BG GIF #3 (Before Connect) ========== -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQyYzlyODZlcHZhaHh2aTRmcmpuYmVjdnc3d3l1OGNyZ2trNGYwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jaOXKCxtBPLieRLI0c/giphy.gif" width="100%" alt="bg gif before connect"/>
-</p>
+---
 
 ## 📬 Connect with Me
 <p align="center">
   <a href="mailto:pumipath.muangthong@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/PoomITD65">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/poom.sung.2025/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dev_poom/?next=%2Fp%2FDKhZ2ith71g%2F">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:38B2AC&height=120&section=footer)
