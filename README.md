@@ -40,9 +40,6 @@
   <a href="https://github.com/PoomITD65/EasyCrop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=EasyCrop&theme=tokyonight" />
   </a>
-  <a href="https://github.com/PoomITD65/exam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=exam&theme=tokyonight" />
-  </a>
 </p>
 <p align="center">
   <a href="https://github.com/PoomITD65/SpendLog-System-mobile-application-Dart-">
