@@ -57,7 +57,7 @@
 ## 📡 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PoomITD65&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PoomITD65&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
 <p align="center">
