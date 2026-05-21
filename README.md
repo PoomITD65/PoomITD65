@@ -57,12 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoomITD65&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoomITD65&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoomITD65&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoomITD65&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PoomITD65&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -71,10 +70,10 @@
 
 <p align="center">
   <a href="https://github.com/PoomITD65/EasyCrop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=EasyCrop&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/PoomITD65/EasyCrop.svg?fullname=" />
   </a>
   <a href="https://github.com/PoomITD65/SpendLog-System-mobile-application-Dart-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoomITD65&repo=SpendLog-System-mobile-application-Dart-&theme=tokyonight&hide_border=true" />
+    <img src="https://gh-card.dev/repos/PoomITD65/SpendLog-System-mobile-application-Dart-.svg?fullname=" />
   </a>
 </p>
 
