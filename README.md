@@ -57,7 +57,7 @@
 ## 📡 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoomITD65&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PoomITD65&theme=midnight-purple&hide_border=true" />
 </p>
 
 <p align="center">
