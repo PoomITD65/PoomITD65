@@ -69,11 +69,6 @@
 ## 🚀 Highlighted Projects
 
 <p align="center">
-  <a href="https://github.com/PoomITD65/EasyCrop">
-    <img src="https://socialify.git.ci/PoomITD65/EasyCrop/image?description=1&font=Inter&language=1&name=1&owner=1&theme=Dark" width="400"/>
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/PoomITD65/SpendLog-System-mobile-application-Dart-">
     <img src="https://socialify.git.ci/PoomITD65/SpendLog-System-mobile-application-Dart-/image?description=1&font=Inter&language=1&name=1&owner=1&theme=Dark" width="400"/>
   </a>
