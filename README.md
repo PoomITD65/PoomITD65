@@ -14,7 +14,7 @@
 ## 🌌 About Me
 
 ```
-  🛸  IT Student & Intern Developer
+  🛸  IT Student & Developer
   ☕  Building a Café Management System
   🌠  Currently exploring Go & Cloud Deployment
   💫  Love clean UI/UX and scalable backend systems
